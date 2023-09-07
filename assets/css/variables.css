@@ -1,0 +1,52 @@
+:root, 
+:root.default {
+    --bg-color: #3B4664;
+    --text-color: white;
+    --text-color-two: #505158;
+    --text-color-equals: white;
+    --text-color-del-reset: white;
+    --color-input: #191F32;
+    --color-body: #272C46;
+    --color-buttons: #E7E4DC;
+    --color-buttons-del-reset: #647297;
+    --color-button-equals: #D13F30;
+    --border-buttons: #BAACA4;
+    --border-buttons-del-reset: #3C4C69;
+    --border-button-equals: #862C24;
+    --color-toggle: #242C45;
+    --color-circle-toggle: #C3443B;
+}
+:root.light {
+    --bg-color: #E7E7E7;
+    --text-color: black;
+    --text-color-two: #3C3A36;
+    --text-color-equals: white;
+    --text-color-del-reset: white;
+    --color-input: #EFEFEF;
+    --color-body: #D4CDCD;
+    --color-buttons: #E7E5E1;
+    --color-buttons-del-reset: #378288;
+    --color-button-equals: #C85400;
+    --border-buttons: #A5A298;
+    --border-buttons-del-reset: #1B6367;
+    --border-button-equals: #904A1A;
+    --color-toggle: #F0F0F0;
+    --color-circle-toggle: #C85602;
+}
+:root.dark {
+    --bg-color: #170629;
+    --text-color: #FFFF00;
+    --text-color-two: #FFFF00;
+    --text-color-equals: #006158;
+    --text-color-del-reset: white;
+    --color-input: #1D0836;
+    --color-body: #1E0935;
+    --color-buttons: #301C4E;
+    --color-buttons-del-reset: #56067B;
+    --color-button-equals: #00DECE;
+    --border-buttons: #642382;
+    --border-buttons-del-reset: #9E2CCB;
+    --border-button-equals: #4EF3E9;
+    --color-toggle: #1D0836;
+    --color-circle-toggle: #14D3CC;
+}
